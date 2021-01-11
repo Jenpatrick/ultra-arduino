@@ -8,4 +8,4 @@ https://www.thingiverse.com/thing:2460171/files And
 
 https://www.thingiverse.com/thing:3029346
 
-#### As of Today (9/6/18) the source is not differing from the original, but expect things to change.
+#### As of Today 1/10/2021 i've abandoned this...
